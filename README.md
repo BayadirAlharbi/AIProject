@@ -1,2 +1,2 @@
 # AIProject
-,to predict the flower type.
+To predict the flower type.
